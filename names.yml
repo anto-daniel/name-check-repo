@@ -1,6 +1,8 @@
 customer_tenants:
 - name: tenant1
   retention_period: 5
+- name: tenant1.5
+  retention_period: 6
 - name: tenant2
   retention_period: 6
 
